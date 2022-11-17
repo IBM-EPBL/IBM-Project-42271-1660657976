@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <h1 style="background-color:DodgerBlue;">IoT Domain</h1>
+</head>
+<body>
+    <p style="background-color:Tomato;">
+<OL>
+    <LI> user id.
+    <LI>password.
+</OL>
+<h4><a href="https://wastemonitor.com/">Waste Monitor</a>/h4>
+<form method="post" action="/{{url}}">
+    <label for="id">id</label><br>
+    <input type="text" id="id"><br>
+    <label for="password">password</label><br>
+    <input type="Submit"value="SUBMIT">
+</form>
+</body>
+</html>
